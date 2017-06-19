@@ -1,0 +1,13 @@
+c:\users\hnevk\documents\visual studio 2017\Projects\CopyFileByCSV\CopyFileByCSV\bin\Debug\CopyFileByCSV.exe.config
+c:\users\hnevk\documents\visual studio 2017\Projects\CopyFileByCSV\CopyFileByCSV\bin\Debug\CopyFileByCSV.exe
+c:\users\hnevk\documents\visual studio 2017\Projects\CopyFileByCSV\CopyFileByCSV\bin\Debug\CopyFileByCSV.pdb
+c:\users\hnevk\documents\visual studio 2017\Projects\CopyFileByCSV\CopyFileByCSV\obj\Debug\CopyFileByCSV.csprojResolveAssemblyReference.cache
+c:\users\hnevk\documents\visual studio 2017\Projects\CopyFileByCSV\CopyFileByCSV\obj\Debug\CopyFileByCSV.Form1.resources
+c:\users\hnevk\documents\visual studio 2017\Projects\CopyFileByCSV\CopyFileByCSV\obj\Debug\CopyFileByCSV.Properties.Resources.resources
+c:\users\hnevk\documents\visual studio 2017\Projects\CopyFileByCSV\CopyFileByCSV\obj\Debug\CopyFileByCSV.csproj.GenerateResource.Cache
+c:\users\hnevk\documents\visual studio 2017\Projects\CopyFileByCSV\CopyFileByCSV\obj\Debug\CopyFileByCSV.exe
+c:\users\hnevk\documents\visual studio 2017\Projects\CopyFileByCSV\CopyFileByCSV\obj\Debug\CopyFileByCSV.pdb
+c:\users\hnevk\documents\visual studio 2017\Projects\CopyFileByCSV\CopyFileByCSV\bin\Debug\CopyFileByCSV.exe.manifest
+c:\users\hnevk\documents\visual studio 2017\Projects\CopyFileByCSV\CopyFileByCSV\bin\Debug\CopyFileByCSV.application
+c:\users\hnevk\documents\visual studio 2017\Projects\CopyFileByCSV\CopyFileByCSV\obj\Debug\CopyFileByCSV.exe.manifest
+c:\users\hnevk\documents\visual studio 2017\Projects\CopyFileByCSV\CopyFileByCSV\obj\Debug\CopyFileByCSV.application
